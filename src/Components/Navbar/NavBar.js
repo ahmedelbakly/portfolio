@@ -18,7 +18,7 @@ console.log(pathname);
       <Link className={`logo bg-danger px-4 py-2`} to="/portfolio/"> Elbakly dev</Link>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
-        <Nav className="me-auto pt-sm-3 pt-lg-0 ps-5">
+        <Nav className="me-auto pt-sm-3 pt-lg-0">
           <Link to="/portfolio/" className={`nav-link  ${pathname==="/"? "active":""}`}>Home</Link>
           <Link to="/aboutMe" className={`nav-link  ${pathname==="/aboutMe"? "active":""}`}>About Me</Link>
           <Link to="/services" className={`nav-link  ${pathname==="/services"? "active":""}`}>Services</Link>
