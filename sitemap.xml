@@ -1,27 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://ahmedelbakly.github.io/portfolio/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://ahmedelbakly.github.io/portfolio/work/coonex/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ahmedelbakly.github.io/portfolio/work/schoolie/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ahmedelbakly.github.io/portfolio/work/49hub/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ahmedelbakly.github.io/portfolio/work/baladicrm/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ahmedelbakly.github.io/portfolio/work/jumla-luminar/</loc>
-    <priority>0.8</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/en/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/" />
+<priority>1</priority>
+</url>
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/en/work/coonex/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/work/coonex/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/work/coonex/" />
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/en/work/schoolie/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/work/schoolie/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/work/schoolie/" />
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/en/work/49hub/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/work/49hub/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/work/49hub/" />
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/en/work/baladicrm/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/work/baladicrm/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/work/baladicrm/" />
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/en/work/jumla-luminar/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/work/jumla-luminar/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/work/jumla-luminar/" />
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/ar/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/" />
+<priority>1</priority>
+</url>
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/ar/work/coonex/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/work/coonex/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/work/coonex/" />
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/ar/work/schoolie/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/work/schoolie/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/work/schoolie/" />
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/ar/work/49hub/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/work/49hub/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/work/49hub/" />
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/ar/work/baladicrm/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/work/baladicrm/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/work/baladicrm/" />
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ahmedelbakly.github.io/portfolio/ar/work/jumla-luminar/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://ahmedelbakly.github.io/portfolio/en/work/jumla-luminar/" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://ahmedelbakly.github.io/portfolio/ar/work/jumla-luminar/" />
+<priority>0.8</priority>
+</url>
 </urlset>
